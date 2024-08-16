@@ -19,7 +19,6 @@
 
 - A passionate Self-taught Back-end developer
 - Professional with cloud knowledge
-- Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently working in Bosch Global Software Technology VietNam
 
