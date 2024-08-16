@@ -108,7 +108,7 @@
 
 <li>
 <a href="www.linkedin.com/in/nhựt-tấn-63a087257" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/D5603AQFIIbvnLXQFbw/profile-displayphoto-shrink_200_200/0/1673331670690?e=1729123200&v=beta&t=rfMrMglOysXzBmuP2Bo-kx_IBfTqRJYVV6Di03y5Zzs)" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
