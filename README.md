@@ -135,22 +135,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
 | <a href="https://github.com/AndyT2503"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttnhut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AndyT's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ttnhut&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttnhut&layout=compact&theme=buefy&hide_border=true" alt="AndyT's Most Used Languages"/></a> |
 | ------------- | ------------- |
