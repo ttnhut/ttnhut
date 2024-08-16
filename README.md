@@ -49,9 +49,9 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Azure](https://img.shields.io/badge/Azure%20Pages-%23327FC7.svg?style=for-the-badge&logo=Azure&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS%20Pages-%23327FC7.svg?style=for-the-badge&logo=AWS&logoColor=white)
+    ![Github](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure-%23327FC7.svg?style=for-the-badge&logo=Azure&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23327FC7.svg?style=for-the-badge&logo=AWS&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
