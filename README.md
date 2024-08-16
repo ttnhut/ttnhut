@@ -108,17 +108,15 @@
 
 <li>
 <a href="www.linkedin.com/in/nhựt-tấn-63a087257" target="_blank">
-<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/D5603AQFIIbvnLXQFbw/profile-displayphoto-shrink_200_200/0/1673331670690?e=1729123200&v=beta&t=rfMrMglOysXzBmuP2Bo-kx_IBfTqRJYVV6Di03y5Zzs)" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  nhựt-tấn-63a087257-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<br>
-
 <li>
 <a href="mailto:tannhut030401@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  tannhut030401-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
